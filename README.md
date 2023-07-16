@@ -43,13 +43,3 @@ Follow these steps to use the script:
 
 4. Make sure to review and understand the script's content before executing it on your production environment, as it involves system-level changes.
 
-## Contributing
-
-If you find any issues with the script or want to enhance its functionality, feel free to create an issue or submit a pull request. Your contributions are highly appreciated!
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code within the terms specified in the license.
-
----
-Please feel free to modify and add more details to the README according to your specific use case, like adding information about the web application or any other relevant instructions.
